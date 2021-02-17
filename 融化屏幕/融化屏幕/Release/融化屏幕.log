@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\吴志渊\desktop\融化屏幕\融化屏幕\源.cpp(7): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  融化屏幕.vcxproj -> C:\Users\吴志渊\Desktop\融化屏幕\Release\融化屏幕.exe
